@@ -1,5 +1,3 @@
-I'll add appropriate emojis to the headlines that are missing them. Here's the updated version:
-
 # 🚀 Welcome to Promptly Technologies LLC
 We build AI-integrated, database-connected web applications and developer tools for small businesses and non-profits. Our offerings include:
 - [PromptlyTechnologies.com](https://promptlytechnologies.com/) - Our beautiful website in the style of a graphic novel (available as an [open-source template](https://github.com/Promptly-Technologies-LLC/Promptly-Technologies-LLC.github.io)!)
