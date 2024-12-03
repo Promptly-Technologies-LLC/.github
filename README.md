@@ -32,6 +32,6 @@ We welcome contributions to all our open-source projects! Each repository has co
 3. Create your feature branch
 4. Submit a pull request
 ## 📫 Connect With Us
-- 🌐 [Contact form](https://promptlytechnologies.com/#/#contact))
+- 🌐 [Contact form](https://promptlytechnologies.com/#/#contact)
 ---
 *Working toward a future in which AI serves the cause of human thriving.*
