@@ -33,7 +33,7 @@ We build AI-integrated, database-connected web applications and developer tools 
 <details>
 <summary>🎯 <b>Scribert - AI-Powered Speech-to-Text</b></summary>
 
-![Scribert Screenshot](/path/to/screenshot.png)
+![Scribert Screenshot](/profile/static/Scribert.png)
 *Transform voice notes into polished text with our [intelligent transcription service](https://www.scribert.com/)*
 
 **Key Features:**
@@ -44,6 +44,8 @@ We build AI-integrated, database-connected web applications and developer tools 
 
 <details>
 <summary>🌐 <b>FastAPI + Jinja2 + PostgreSQL Webapp Template</b></summary>
+
+![FastAPI + Jinja2 + PostgreSQL Webapp Template Screenshot](/profile/static/FastAPITemplate.png)
 
 A [production-ready webapp template](https://github.com/Promptly-Technologies-LLC/fastapi-jinja2-postgres-webapp) combining three of the most lightweight and performant open-source web frameworks:
 
