@@ -33,57 +33,42 @@ We build AI-integrated, database-connected web applications and developer tools 
 <details>
 <summary>🎤 <b>Scribert - AI-Powered Speech-to-Text</b></summary>
 
-![Scribert Screenshot](/profile/static/Scribert.png)
-
-*Transform voice notes into polished text with our [intelligent transcription service](https://www.scribert.com/)*
-
-**Key Features:**
-- 🎙️ Advanced speech recognition
-- 🤖 LLM-powered editing
-- ✨ Automatic formatting
+| Feature | Description |
+|---------|-------------|
+| Overview | [AI assistant](https://www.scribert.com/) to turn recorded voice notes into polished text  |
+| Core Capabilities | • 🎙️ Advanced speech recognition<br>• 🤖 LLM-powered editing<br>• ✨ Automatic formatting |
+| Preview | <img src="/profile/static/Scribert.png" width="400" alt="Scribert Screenshot"> |
 </details>
 
 <details>
 <summary>🌐 <b>FastAPI + Jinja2 + PostgreSQL Webapp Template</b></summary>
 
-![FastAPI + Jinja2 + PostgreSQL Webapp Template Screenshot](/profile/static/FastAPITemplate.png)
-
-A [production-ready webapp template](https://github.com/Promptly-Technologies-LLC/fastapi-jinja2-postgres-webapp) combining three of the most lightweight and performant open-source web frameworks:
-
-**Core Features:**
-- ⚡ Pure Python backend with FastAPI
-- 🎨 Minimal-JavaScript frontend using Jinja2 HTML templating
-- 🗄️ PostgreSQL database with SQLModel ORM
-
-**Highlights:**
-- 🔒 Full-featured secure authentication system
-- 👥 Role-based access control
-- 📚 Extensive, beginner-friendly documentation
-- 🤖 Includes `llms.txt` prompt file for AI development
-
-[📖 View Documentation](https://promptlytechnologies.com/fastapi-jinja2-postgres-webapp/)
+| Feature | Description |
+|---------|-------------|
+| Overview | A [production-ready webapp template](https://github.com/Promptly-Technologies-LLC/fastapi-jinja2-postgres-webapp) combining lightweight and performant frameworks |
+| Core Features | • ⚡ Pure Python backend with FastAPI<br>• 🎨 Minimal-JavaScript frontend using Jinja2<br>• 🗄️ PostgreSQL database with SQLModel ORM |
+| Security & Access | • 🔒 Full-featured secure authentication<br>• 👥 Role-based access control |
+| Documentation | • 📚 Extensive, beginner-friendly docs<br>• 🤖 Includes `llms.txt` prompt file |
+| Resources | [📖 View Documentation](https://promptlytechnologies.com/fastapi-jinja2-postgres-webapp/) |
+| Preview | <img src="/profile/static/FastAPITemplate.png" width="400" alt="FastAPI Template Screenshot"> |
 </details>
 
 <details>
 <summary>🤖 <b>OpenAI Assistants API Quickstart</b></summary>
 
-A [streamlined template](https://github.com/Promptly-Technologies-LLC/openai-assistants-python-quickstart) for building AI-powered applications using the OpenAI Assistants API.
-
-**Tech Stack:**
-- 🐍 Python + FastAPI backend
-- 🎯 Jinja2 templating
-- 🧠 OpenAI Assistants API integration
+| Feature | Description |
+|---------|-------------|
+| Overview | A [streamlined template](https://github.com/Promptly-Technologies-LLC/openai-assistants-python-quickstart) for building AI-powered applications |
+| Tech Stack | • 🐍 Python + FastAPI backend<br>• 🎯 Jinja2 templating<br>• 🧠 OpenAI Assistants API integration |
 </details>
 
 <details>
 <summary>📊 <b>IMFP: IMF Data Access Package</b></summary>
 
-A [Python package](https://github.com/Promptly-Technologies-LLC/imfp) providing comprehensive access to International Monetary Fund data. 
-
-**Key Information:**
-- 📈 Complete IMF data access
-- 🤝 Sister library to [imfr](https://github.com/christophergandrud/imfr)
-- ✨ Version 2 developed by Promptly's president
+| Feature | Description |
+|---------|-------------|
+| Overview | A [Python package](https://github.com/Promptly-Technologies-LLC/imfp) for IMF data access |
+| Key Features | • 📈 Complete IMF data access<br>• 🤝 Sister library to [imfr](https://github.com/christophergandrud/imfr)<br> |
 </details>
 
 ## Contributing
