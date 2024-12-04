@@ -1,6 +1,6 @@
 <div align="center">
   
-# ⚡️ Promptly Technologies LLC
+# Promptly Technologies LLC
 ### *AI-powered tools for small businesses and non-profits*
 
 [![Website](https://img.shields.io/badge/🌐_Website-promptlytechnologies.com-blue)](https://promptlytechnologies.com)
@@ -19,7 +19,7 @@
 We build AI-integrated, database-connected web applications and developer tools for small businesses and non-profits. We also organize free events and offer paid consulting services on AI workflows in the Albany, NY area.
 
 <div align="center">
-  <h2>💻 Our Tech Stack</h2>
+  <h2>Our Tech Stack</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40px" alt="Python" title="Python" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="40px" alt="R" title="R" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40px" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
@@ -28,12 +28,13 @@ We build AI-integrated, database-connected web applications and developer tools 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40px" alt="Docker" title="Docker" />
 </div>
 
-## 💫 Featured Projects (click to expand)
+## Featured Projects (click to expand)
 
 <details>
-<summary>🎯 <b>Scribert - AI-Powered Speech-to-Text</b></summary>
+<summary>🎤 <b>Scribert - AI-Powered Speech-to-Text</b></summary>
 
 ![Scribert Screenshot](/profile/static/Scribert.png)
+
 *Transform voice notes into polished text with our [intelligent transcription service](https://www.scribert.com/)*
 
 **Key Features:**
@@ -85,15 +86,15 @@ A [Python package](https://github.com/Promptly-Technologies-LLC/imfp) providing 
 - ✨ Version 2 developed by Promptly's president
 </details>
 
-## 🤝 Contributing
+## Contributing
 We welcome contributions to all our open-source projects! Each repository has contribution guidelines, but generally:
 1. Open an issue for bugs or feature requests
 2. Fork the repository
 3. Create your feature branch
 4. Submit a pull request
 
-## 📫 Connect With Us
-- 🌐 [Contact form](https://promptlytechnologies.com/#/#contact)
+## Connect With Us
+- 📫 [Contact form](https://promptlytechnologies.com/#/#contact)
 
 ---
 
